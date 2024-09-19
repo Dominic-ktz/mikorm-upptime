@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mikorm.app
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://mikorm.app/assets/img/mikorm-edited-new.webp
   name: Mikorm - Uptime
   introTitle: ""
   introMessage: Have problems connecting to mikorm? Find the information here
