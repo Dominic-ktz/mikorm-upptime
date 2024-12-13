@@ -5,6 +5,8 @@ repo: mikorm-upptime # The name of this repository
 sites:
   - name: Mikorm Website
     url: https://mikorm.app
+  - name: Mikorm API
+    url: https://mikormconnect.mikorm.app
 
 
 status-website:
