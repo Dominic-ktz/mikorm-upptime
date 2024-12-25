@@ -4,9 +4,9 @@
     "url": "https://mikorm.app",
     "icon": "https://icons.duckduckgo.com/ip3/mikorm.app.ico",
     "slug": "mikorm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 844,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-12-06": 19,
       "2024-11-02": 44
     }
@@ -25,18 +26,19 @@
     "url": "https://mikormconnect.mikorm.app",
     "icon": "https://icons.duckduckgo.com/ip3/mikormconnect.mikorm.app.ico",
     "slug": "mikorm-api",
-    "status": "up",
-    "uptime": "86.52%",
+    "status": "down",
+    "uptime": "87.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "86.52%",
+    "uptimeMonth": "87.18%",
+    "uptimeYear": "87.18%",
     "time": 710,
     "timeDay": 414,
     "timeWeek": 704,
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-12-15": 673,
       "2024-12-14": 1440,
       "2024-12-13": 49
