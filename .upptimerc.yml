@@ -7,6 +7,8 @@ sites:
     url: https://mikorm.app
   - name: Mikorm API
     url: https://mikormconnect.mikorm.app
+  - name: Opendata (CDN)
+    url: https://opendata.mikorm.app/
 
 
 status-website:
@@ -24,10 +26,7 @@ status-website:
       href: /
     - title: Website
       href: https://mikorm.app/
-    - title: Opendata (CDN)
-      href: https://opendata.mikorm.app/
-    - title: API
-      href: https://mikormconnect.mikorm.app/
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
