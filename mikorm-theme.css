@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #f8f9fa; /* Helles Hintergrunddesign */
+  --body-text-color: #212529; /* Dunkler Text für guten Kontrast */
+  --card-background-color: #ffffff; /* Weiße Karten für klare Abgrenzung */
+  --nav-background-color: #007bff; /* Primärfarbe für Navigation */
+  --nav-border-bottom-color: #0056b3; /* Abgesetzte Farbe für Abgrenzungen */
+  --nav-current-border-bottom-color: #ffc107; /* Akzentfarbe */
+  --card-border-color: #dee2e6; /* Dezente Kartenumrandung */
+  --down-border-left-color: #dc3545; /* Farbe für "Down"-Status */
+  --down-background-color: #f8d7da; /* Helles Rot für "Down"-Status */
+  --degraded-border-left-color: #ffc107; /* Farbe für "Degraded"-Status */
+  --up-border-left-color: #28a745; /* Farbe für "Up"-Status */
+  --tag-color: #e9ecef; /* Heller Tag-Hintergrund */
+  --tag-up-background-color: #28a745; /* Grün für "Up"-Tags */
+  --tag-down-background-color: #dc3545; /* Rot für "Down"-Tags */
+  --tag-degraded-background-color: #ffc107; /* Gelb für "Degraded"-Tags */
+  --change-background-color: #ffc107; /* Gelb für Änderungen */
+  --error-button-border-color: #dc3545; /* Fehlerbutton mit rotem Rand */
+  --error-button-background-color: #f5c6cb; /* Helles Rot für Fehlerbutton */
+  --error-button-color: #212529; /* Dunkler Text auf Fehlerbutton */
+  --submit-button-border-color: #28a745; /* Submit-Button mit grünem Rand */
+  --submit-button-background-color: #d4edda; /* Helles Grün für Submit-Button */
+  --submit-button-color: #212529; /* Dunkler Text auf Submit-Button */
+  --graph-opacity: 0.9; /* Leicht transparent */
+  --graph-filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.1)); /* Schatten für Grafiken */
+}
