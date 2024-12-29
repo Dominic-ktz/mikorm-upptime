@@ -13,8 +13,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mikorm.app
+  themeUrl: https://status.mikorm.app/mikorm-theme.css
   # baseUrl: /your-repo-name
-  logoUrl: https://mikorm.app/assets/img/mikorm-edited-new.webp
+  logoUrl: https://itsuki.mikorm.app/style/images/mikorm-logo.png
   name: Mikorm - Uptime
   introTitle: ""
   introMessage: Have problems connecting to mikorm? Find the information here
@@ -23,6 +24,10 @@ status-website:
       href: /
     - title: Website
       href: https://mikorm.app/
+    - title: Opendata (CDN)
+      href: https://opendata.mikorm.app/
+    - title: API
+      href: https://mikormconnect.mikorm.app/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
