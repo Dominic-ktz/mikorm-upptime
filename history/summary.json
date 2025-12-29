@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mikorm.app.ico",
     "slug": "mikorm-website",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 959,
-    "timeDay": 963,
-    "timeWeek": 821,
-    "timeMonth": 756,
-    "timeYear": 1065,
+    "time": 958,
+    "timeDay": 682,
+    "timeWeek": 816,
+    "timeMonth": 757,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-11-24": 671,
       "2025-03-29": 244,
@@ -38,16 +38,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 488,
-    "timeDay": 623,
-    "timeWeek": 513,
-    "timeMonth": 491,
+    "timeDay": 418,
+    "timeWeek": 504,
+    "timeMonth": 489,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-03-29": 244,
       "2025-03-27": 125,
       "2025-03-21": 19,
-      "2025-03-20": 147,
-      "2024-12-29": 152
+      "2025-03-20": 147
     }
   }
 ]
